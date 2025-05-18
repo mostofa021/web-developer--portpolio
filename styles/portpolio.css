@@ -236,3 +236,38 @@ padding: 30px 33px;
   font-weight: 400;
   line-height: 28px;
 }
+
+
+/* resume-section style */
+
+.resume-container{
+  margin: 113px auto;
+  display: flex;
+  justify-content: space-between;
+  gap:71px;
+}
+
+.resume-coloum .resume-coloum-title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.exprience-title{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.exprience-subtitle{
+  font-size: 20px;
+  font-weight: semibold;
+  margin-bottom: 20px;
+}
+
+.exprience-description{
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
