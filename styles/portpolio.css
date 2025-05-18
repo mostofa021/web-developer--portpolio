@@ -241,7 +241,8 @@ padding: 30px 33px;
 /* resume-section style */
 
 .resume-container{
-  margin: 113px auto;
+  margin-top: 113px;
+  margin-bottom:50px;
   display: flex;
   justify-content: space-between;
   gap:24px;
@@ -270,4 +271,13 @@ padding: 30px 33px;
   line-height: 28px;
   font-weight: 400;
   margin-bottom: 30px;
+}
+
+/* download-cv-btn */
+
+.download-cv-btn{
+  margin-bottom:113px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
